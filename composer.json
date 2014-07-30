@@ -1,0 +1,15 @@
+{
+        "require": {
+            "php": ">=5.3.1",
+            "davedevelopment/phpmig": "1.1.*@dev",
+            "silex/silex": "2.0.*@dev",
+            "vlucas/phpdotenv": "1.0.6",
+            "symfony/event-dispatcher": ">=2.3",
+            "illuminate/database": "*",
+            "illuminate/container": "*"
+        },
+
+        "config": {
+            "bin-dir": "bin/"
+        }
+}

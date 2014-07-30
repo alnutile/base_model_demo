@@ -1,0 +1,4 @@
+DB_HOST=localhost
+DB_USER=someUser
+DB_DRIVER=sqlite
+DB_PASS=somePass

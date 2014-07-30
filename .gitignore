@@ -1,0 +1,5 @@
+database/local.sqlite
+.env
+.env*
+:memory
+migrations/20140730153935_OrdersTable.php
