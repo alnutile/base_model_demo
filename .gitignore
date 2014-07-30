@@ -3,3 +3,4 @@ database/local.sqlite
 .env*
 :memory
 migrations/20140730153935_OrdersTable.php
+vendor/*
